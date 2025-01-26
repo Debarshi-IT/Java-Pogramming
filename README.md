@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/f5ca69ae-8980-4148-878c-6c054ff9f0c2)
+![image](https://github.com/user-attachments/assets/f5ca69ae-8980-4148-878c-6c054ff9f0c2)   ![image](https://github.com/user-attachments/assets/8bad5831-7953-45dd-bf52-e4d52fff56ca)
+
 
 Introduction
 
@@ -34,22 +35,18 @@ The JVM executes the compiled bytecode, translating it into machine code specifi
 Example Program:
 
 
-1
-public class HelloWorld {
-2
-    public static void main(String[] args)
-3
-    {
-4
-        System.out.println("Hello, World!");
-5
-    }
-6
-}
+1. public class HelloWorld {
+2. public static void main(String[] args)
+3.  {
+4.  System.out.println("Hello, World!");
+5. } 
+6 }
+
 Write your first Java program with ‘First Java Program: Hello World‘.
 
 
 Essential Java Terminologies You Need to Know
+
 Before learning Java, one must be familiar with these common terms of Java.
 
 1. Java Virtual Machine(JVM)
