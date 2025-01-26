@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/f5ca69ae-8980-4148-878c-6c054ff9f0c2)   ![image](https://github.com/user-attachments/assets/8bad5831-7953-45dd-bf52-e4d52fff56ca)
+![image](https://github.com/user-attachments/assets/f5ca69ae-8980-4148-878c-6c054ff9f0c2)   ![image](https://github.com/user-attachments/assets/8bad5831-7953-45dd-bf52-e4d52fff56ca)  ![image](https://github.com/user-attachments/assets/559ceb48-2eeb-424e-af14-e7e16e81416b)
+
 
 
 Introduction
@@ -40,8 +41,7 @@ Example Program:
 3.  {
 4.  System.out.println("Hello, World!");
 5. }
-
-6 }
+6. }
 
 Write your first Java program with ‘First Java Program: Hello World‘.
 
